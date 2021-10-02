@@ -17,5 +17,5 @@ En este repositorio se encuentran el proyecto del __Bloque 4__ (_Análisis de da
 
 ### Resultados del proyecto
 - [El __video explicativo__ del proyecto.](https://drive.google.com/file/d/1tHXpG7g_CqYljGpvAi-3iLd8QZLzQtjZ/view?usp=sharing)
-- [La __presentación__ mostrada en el video](https://github.com/gilesitorr/DataScience3_Bloque4/blob/main/Proyecto%20Final%203%20BEDU.pdf)
+- [La __presentación__ mostrada en el video](https://github.com/gilesitorr/DataScience3_Bloque4/blob/main/Proyecto%20Final%203%20BEDU%20(1).pdf)
 - [El __Notebook__ del proyecto](DS3_proyecto_4.ipynb).
