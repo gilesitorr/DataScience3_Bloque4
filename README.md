@@ -3,7 +3,7 @@
 
 
 
-### Equipo 2
+### Equipo 1
 El equipo de colaboradores en este trabajo está compuesto por:
 - __Gómez Barraza__, Karla Daniela
 - __Guevara Moreno__, Fernando
